@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.57e831e7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5243abad.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5243abad.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.1feff0a4.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.1feff0a4.js.map",
+    "static/css/2.c4e73993.chunk.css": "/React-Portfolio/static/css/2.c4e73993.chunk.css",
+    "static/js/2.7c2eb0e1.chunk.js": "/React-Portfolio/static/js/2.7c2eb0e1.chunk.js",
+    "static/js/2.7c2eb0e1.chunk.js.map": "/React-Portfolio/static/js/2.7c2eb0e1.chunk.js.map",
+    "static/js/3.c28f4d3d.chunk.js": "/React-Portfolio/static/js/3.c28f4d3d.chunk.js",
+    "static/js/3.c28f4d3d.chunk.js.map": "/React-Portfolio/static/js/3.c28f4d3d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/React-Portfolio/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.57e831e7.chunk.css.map": "/React-Portfolio/static/css/main.57e831e7.chunk.css.map",
+    "static/js/2.7c2eb0e1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7c2eb0e1.chunk.js.LICENSE.txt",
+    "static/media/Bhavna.461a6c9c.jpg": "/React-Portfolio/static/media/Bhavna.461a6c9c.jpg",
+    "static/media/BhavnaJainResume.6f016104.pdf": "/React-Portfolio/static/media/BhavnaJainResume.6f016104.pdf",
+    "static/media/CodeQuiz.bad7c2f6.jpg": "/React-Portfolio/static/media/CodeQuiz.bad7c2f6.jpg",
+    "static/media/Community-Connect.213a11c1.jpg": "/React-Portfolio/static/media/Community-Connect.213a11c1.jpg",
+    "static/media/ECommerce.dfd9dcd9.jpg": "/React-Portfolio/static/media/ECommerce.dfd9dcd9.jpg",
+    "static/media/Tech-Blog.b5923e60.jpg": "/React-Portfolio/static/media/Tech-Blog.b5923e60.jpg",
+    "static/media/Weather-Dashboard.36e975b6.png": "/React-Portfolio/static/media/Weather-Dashboard.36e975b6.png",
+    "static/media/WorthTheWatch.3d24c7c9.png": "/React-Portfolio/static/media/WorthTheWatch.3d24c7c9.png",
+    "static/media/script.css": "/React-Portfolio/static/media/laptop1.39aebd72.jpg",
+    "static/media/App.css": "/React-Portfolio/static/media/structure-bg.ad53899f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1feff0a4.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.7c2eb0e1.chunk.js",
+    "static/css/main.57e831e7.chunk.css",
+    "static/js/main.5243abad.chunk.js"
+  ]
+}
